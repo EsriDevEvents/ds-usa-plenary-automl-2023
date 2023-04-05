@@ -8,7 +8,9 @@ Li, Z. (2022). Extracting spatial effects from machine learning model using loca
 
 ## Materials
 
-The Pro package contains the notebook, two maps (Chicago and Philadelphia) and a geodatabase containing all required data except data source #1 (the rideshare CSV).  All necessary data sources have been vetted and are listed in Section 7 of the notebook.  
+The Pro package contains the notebook, two maps (Chicago and Philadelphia) and a geodatabase containing all required data except data source #1 (the rideshare CSV).  All necessary data sources have been vetted and are listed in Section 7 of the notebook.
+
+https://esriis-my.sharepoint.com/:u:/r/personal/nich7905_esri_com/Documents/DevSummit2023_AutoML_PlenaryDemo_April2023.ppkx?csf=1&web=1&e=Kyiidn
 
 ## Other notes
 
